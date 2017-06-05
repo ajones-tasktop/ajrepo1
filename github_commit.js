@@ -16,6 +16,8 @@ var splitMessage = message.split('\n\n');
 var message = splitMessage[0];
 var formattedID = splitMessage[1];
 //var changes = "{" + "\"Changes\"" + ":[{" + "\"PathAndFilename\"=" commit.url + ", \"Action\"=\"action\"" + "}, ]}"
+
+//add a test comment line
  
 return {
                                         'formatted_id':formattedID,
