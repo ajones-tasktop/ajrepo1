@@ -18,7 +18,7 @@ var formattedID = splitMessage[1];
 //var changes = "{" + "\"Changes\"" + ":[{" + "\"PathAndFilename\"=" commit.url + ", \"Action\"=\"action\"" + "}, ]}"
 
 //add a test comment line
-//change to code
+//change to code, change b
  
 return {
                                         'formatted_id':formattedID,
